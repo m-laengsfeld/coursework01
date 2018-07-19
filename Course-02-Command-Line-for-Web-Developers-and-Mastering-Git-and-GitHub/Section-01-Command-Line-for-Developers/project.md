@@ -29,3 +29,17 @@ A more complex code example.
 	...
 
 ---
+
+git push
+git pull
+git clone
+git status
+git commit
+git reset
+git checkout
+git branch
+git merge
+git mv
+git rm
+git add
+git diff
